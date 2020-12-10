@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-Here I keep code for presentations I might give at a meetup or conference.
+This is where I keep code for presentations I might give at a meetup or conference.
 
 Other things are mini personal projects or random halfbakery. View at your own risk!
 
